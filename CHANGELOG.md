@@ -2,22 +2,24 @@
 
 # Changelog
 
-### [Version 1.40.3](https://github.com/iuaihub/iuai-chat/compare/v1.40.2...v1.40.3)
+## [Version 1.41.0](https://github.com/iuaihub/iuai-chat/compare/v1.40.4...v1.41.0)
 
-<sup>Released on **2024-12-26**</sup>
+<sup>Released on **2024-12-28**</sup>
 
-#### 🐛 Bug Fixes
+#### ✨ Features
 
-- **misc**: Fix fetch error in changelog modal.
+- **auth**: Add WeChat authentication support.
+- **misc**: Support white list for discover assistant.
 
 <br/>
 
 <details>
 <summary><kbd>Improvements and Fixes</kbd></summary>
 
-#### What's fixed
+#### What's improved
 
-- **misc**: Fix fetch error in changelog modal, closes [#5194](https://github.com/iuaihub/iuai-chat/issues/5194) ([e9433be](https://github.com/iuaihub/iuai-chat/commit/e9433be))
+- **auth**: Add WeChat authentication support, closes [#5195](https://github.com/iuaihub/iuai-chat/issues/5195) ([95153a4](https://github.com/iuaihub/iuai-chat/commit/95153a4))
+- **misc**: Support white list for discover assistant, closes [#5216](https://github.com/iuaihub/iuai-chat/issues/5216) ([90bb20d](https://github.com/iuaihub/iuai-chat/commit/90bb20d))
 
 </details>
 
@@ -27,22 +29,22 @@
 
 </div>
 
-### [Version 1.40.2](https://github.com/iuaihub/iuai-chat/compare/v1.40.1...v1.40.2)
+### [Version 1.40.4](https://github.com/iuaihub/iuai-chat/compare/v1.40.3...v1.40.4)
 
-<sup>Released on **2024-12-26**</sup>
+<sup>Released on **2024-12-28**</sup>
 
-#### ♻ Code Refactoring
+#### 💄 Styles
 
-- **misc**: Refactor `tokens` to `contextWindowTokens`.
+- **misc**: Update deepseek V3 model.
 
 <br/>
 
 <details>
 <summary><kbd>Improvements and Fixes</kbd></summary>
 
-#### Code refactoring
+#### Styles
 
-- **misc**: Refactor `tokens` to `contextWindowTokens`, closes [#5185](https://github.com/iuaihub/iuai-chat/issues/5185) ([a2aa99a](https://github.com/iuaihub/iuai-chat/commit/a2aa99a))
+- **misc**: Update deepseek V3 model, closes [#5199](https://github.com/iuaihub/iuai-chat/issues/5199) ([868f556](https://github.com/iuaihub/iuai-chat/commit/868f556))
 
 </details>
 
