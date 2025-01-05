@@ -33,9 +33,9 @@ export class ChangelogService {
     changelogPath: 'changelog',
     docsPath: 'docs/changelog',
     majorVersion: 1,
-    repo: 'chat1421',
+    repo: 'iuai-chat',
     type: 'cloud',
-    user: 'sej95',
+    user: 'iuaihub',
   };
 
   async getLatestChangelogId() {
