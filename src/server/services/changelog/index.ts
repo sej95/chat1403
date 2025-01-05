@@ -33,9 +33,9 @@ export class ChangelogService {
     changelogPath: 'changelog',
     docsPath: 'docs/changelog',
     majorVersion: 1,
-    repo: 'lobe-chat',
+    repo: 'chat1421',
     type: 'cloud',
-    user: 'lobehub',
+    user: 'sej95',
   };
 
   async getLatestChangelogId() {
