@@ -56,7 +56,7 @@ const Page = async () => {
               fallback={
                 <GridLayout>
                   <Divider />
-                  <Skeleton active paragraph={{ rows: 5 }} />
+                  <Skeleton active paragraph={{ rows: 1 }} />
                 </GridLayout>
               }
             >
